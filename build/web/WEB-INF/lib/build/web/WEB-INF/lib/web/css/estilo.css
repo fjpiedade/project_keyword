@@ -1,0 +1,254 @@
+*{
+	margin:0; 
+	padding:0;
+	}
+body{
+	background:#FFFFFF;
+        font-size:14px;
+        font-family:Calibri,Verdana, Geneva, sans-serif;
+	}
+body a{
+	text-decoration:none;
+	border:0;
+	}
+body a:visited{
+	color: #3366FF;
+	}
+body a:hover{
+	color: #3366FF;
+	}
+label.error { 
+	float: none; 
+	color: red; 
+	margin: 0 .5em 0 0; 
+	vertical-align: top; 
+        font-family:Calibri,Verdana, Geneva, sans-serif;
+	font-size: 14px;
+        display: block;
+}
+input.error{
+    background: #f8dbdb;
+    border:1px solid #e77776;
+}
+input.valid{
+    background: #99ff99;
+    border:1px solid green;
+}
+#principal{
+    margin:0 auto;
+    width:auto;
+    height:auto;
+    /*background-color:#F9F9F9;*/
+}
+#principal h1{
+    text-align: center;
+    font: 35px Calibri,Verdana, Geneva, sans-serif;
+}
+#principal h4{
+    text-align: center;
+    color: #666666;
+    font: 18px Calibri,Verdana, Geneva, sans-serif;
+    margin: 10px 10px;
+}        
+
+#topAll{
+    margin:0;
+    padding: 5px 5px 5px 180px;
+    width: auto;
+    height: 30px;
+    font-family:Calibri,Verdana, Geneva, sans-serif;
+    font-size:16px;
+    color: #fff;
+    background-color:#333;
+    /*text-shadow:1px 1px ;#3366FF*/
+}
+
+#logoTipo{
+        width: 100px;
+        height: 50px;
+        margin: 0px 200px;
+        float:right; 
+	}
+#logoTipo a{
+	text-decoration:none;
+	border:0;
+	}
+#logoTipo img{
+	text-decoration:none;
+	border:0;
+	}  
+
+#corpo{
+    margin:70px 277px;
+    padding: 10px 5px;
+    width: 744px;
+    height: 477px;
+    background-color:#FFFFFF;
+}
+ 
+#formulario{
+    margin:50px 150px;
+    width: 442px;
+    height: 239px; 
+}
+#formulario h1{
+    margin: 15px 0;
+    float: right;
+    font: 14px Calibri,Verdana, Geneva, sans-serif;
+}
+#formulario h2{
+    margin: 15px 15px;
+    float: left;
+    font: 14px Calibri,Verdana, Geneva, sans-serif;
+}
+#formulario h3{
+    margin: 15px 15px;
+    float: right;
+    font: 14px Calibri,Verdana, Geneva, sans-serif;
+}
+#formulario form{
+	width:420px;
+	display:block;
+	margin:0 auto;
+	}
+#formulario fieldset{
+	background-color:#F9F9F9;
+	border:1px solid #cccccc;
+	border-radius: 0 0 0 0;
+	padding:0 15px 10px 15px;
+}
+#formulario legend{
+	font: 18px Calibri,Verdana, Geneva, sans-serif;
+	color:#000000;
+	padding:10px 0;
+	}
+#formulario label{
+	display:block;
+	padding:5px 0px;
+	}
+#formulario span{
+	display:block;
+	font: 16px Calibri,Verdana, Geneva, sans-serif;
+	color:#000000;
+        font-weight: bold;
+        text-shadow:1px 1px #666666;
+	
+	}
+#formulario input{
+        margin: 5px 0;
+	padding:3px;
+	width:380px;
+	border:1px solid #cccccc;
+	font:16px Calibri,Verdana, Geneva, sans-serif;
+	/*font-weight:bold;*/
+	color:#666666;
+	}
+#formulario input:focus{
+	border-width:thin;
+	border-color:#3366FF;
+	}
+
+#formulario select:focus{
+	border-width:thin;
+	border-color:#3366FF;
+	}
+	
+#formulario .combos{
+	padding:3px;
+	width:380px;
+	border:1px solid #9CF;
+	font:16px Calibri,Verdana, Geneva, sans-serif;
+	/*font-weight:bold;*/
+	color:#666666;
+	}
+	
+#formulario .send{
+        float: left;
+	width:90px;
+        height: 30px;
+	display:block;
+	margin:10px 0px 0px 0px;
+	cursor:pointer;
+	border:0;
+	background:#3366FF;
+	color:#FFF;
+        border-radius: 4px 4px 4px 4px;
+        text-shadow:1px 1px #666666;
+	}
+#formulario .send:hover{
+	background:#0033FF;
+	color:#FFF;
+	}
+        
+.yes{
+	padding:5px;
+        margin: 15px;
+	background:#EAFFD5;
+	/*border:1px solid #0F0;*/
+        border-radius: 4px 4px 4px 4px;
+        text-align: center;
+        -webkit-box-shadow: rgba(0, 0, 128, 0.25) 0px  0px 9px;
+        -webkit-box-shadow : inset rgba(0, 0, 0, 0.5) 0px  0px  9px;
+	}
+	
+.no{
+	padding:5px;
+        margin: 15px;
+	background:#FDD;
+	/*border:1px solid #F00;*/
+        border-radius: 4px 4px 4px 4px;
+        text-align: center;
+        -webkit-box-shadow: rgba(0, 0, 128, 0.25) 0px  0px 9px;
+        -webkit-box-shadow : inset rgba(0, 0, 0, 0.5) 0px  0px  9px;
+	}
+
+  #menuS form{
+	width:auto;
+	
+	margin:0px 60px;
+	}
+        
+        
+#menuS{
+        margin: 50px auto;
+	padding:5px;
+        width: auto;
+        font-family:Calibri,Verdana, Geneva, sans-serif;
+	font-size:14px;
+	}
+        
+#menuS input{
+        margin: 0px;
+	padding:5px;
+	width:500px;
+	border:1px solid #cccccc;
+	font:16px Calibri,Verdana, Geneva, sans-serif;
+	color:#666666;
+	}
+#menuS input:focus{
+	border-width:thin;
+	border-color:#3366FF;
+	}
+	
+#menuS .send{
+        margin: 0px;
+	width: 90px;
+        height: 31px;
+	margin:0px;
+	cursor:pointer;
+	background:#3366FF;
+	color:#FFF;
+        border:1px solid #cccccc;
+        text-shadow:1px 1px #666666;
+        
+	}
+#menuS .send:hover{
+	background:#0033FF;
+	color:#FFF;
+	}
+        
+#menuA{
+	width:auto;
+	
+	margin:0px 60px;
+	}

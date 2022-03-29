@@ -1,0 +1,28 @@
+SMAP
+centralAnunciante_jsp.java
+JSP
+*S JSP
+*F
++ 0 centralAnunciante.jsp
+protectePage/centralAnunciante.jsp
+*L
+5,14:46
+19:60,3
+20,29:63
+49,5:93
+53,5:98
+58:103,3
+59,3:106
+62:109,3
+63,3:112
+66:115,3
+67,3:118
+70:121,3
+71,3:124
+74:127,3
+75,3:130
+78:133,3
+79,3:136
+82:139,3
+83,21:142
+*E
