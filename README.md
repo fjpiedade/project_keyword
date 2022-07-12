@@ -12,4 +12,3 @@ Java, JSP, Oracle, PL/SQL, JavaScript, Form Validation using jQuery and Regular 
 
 ![logoTypeMix1](https://user-images.githubusercontent.com/82730685/178474482-a59c5142-6b9c-411c-9d6b-94fefa8abd14.png)
 
-![logoTypeMixc](https://user-images.githubusercontent.com/82730685/178474508-9082a26b-d8f0-4978-bfd9-12a73bbf747b.png)
